@@ -1,0 +1,35 @@
+﻿<Window x:Class="Juego_ParejaCartas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Juego de Parejas de League of Legends " Height="350" Width="360.999" ResizeMode="NoResize">
+    <Grid>
+        <Grid Name="grdRejilla" ShowGridLines="True" Loaded="Grid_Loaded_1">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Image Name="img_00" Height="80" Grid.Row="0" Grid.Column="0" Stretch="Fill" MouseDown="img_00_MouseDown" />
+            <Image Name="img_01" Height="80" Grid.Row="0" Grid.Column="1" Stretch="Fill" MouseDown="img_01_MouseDown" />
+            <Image Name="img_02" Height="80" Grid.Row="0" Grid.Column="2" Stretch="Fill" MouseDown="img_02_MouseDown"  />
+            <Image Name="img_10" Height="80" Grid.Row="1" Grid.Column="0" Stretch="Fill" MouseDown="img_03_MouseDown"  />
+            <Image Name="img_11" Height="80" Grid.Row="1" Grid.Column="1" Stretch="Fill" MouseDown="img_04_MouseDown"  />
+            <Image Name="img_12" Height="80" Grid.Row="1" Grid.Column="2" Stretch="Fill" MouseDown="img_05_MouseDown" />
+            <Image Name="img_20" Height="80" Grid.Row="2" Grid.Column="0" Stretch="Fill" MouseDown="img_06_MouseDown"  />
+            <Image Name="img_21" Height="80" Grid.Row="2" Grid.Column="1" Stretch="Fill" MouseDown="img_07_MouseDown"  />
+            <Image Name="img_22" Height="80" Grid.Row="2" Grid.Column="2" Stretch="Fill" MouseDown="img_08_MouseDown"  />
+            <Image Name="img_30" Height="80" Grid.Row="3" Grid.Column="0" Stretch="Fill" MouseDown="img_09_MouseDown"  />
+            <Image Name="img_31" Height="80" Grid.Row="3" Grid.Column="1" Stretch="Fill" MouseDown="img_10_MouseDown"  />
+            <Image Name="img_32" Height="80" Grid.Row="3" Grid.Column="2" Stretch="Fill" MouseDown="img_11_MouseDown"  />
+
+        </Grid>
+    </Grid>
+</Window>

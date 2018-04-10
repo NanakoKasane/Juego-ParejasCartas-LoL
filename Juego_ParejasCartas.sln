@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego_ParejasCartas", "Juego_ParejasCartas\Juego_ParejasCartas.csproj", "{BC164460-69A3-4996-8D82-464AB8F84457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC164460-69A3-4996-8D82-464AB8F84457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC164460-69A3-4996-8D82-464AB8F84457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC164460-69A3-4996-8D82-464AB8F84457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC164460-69A3-4996-8D82-464AB8F84457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
