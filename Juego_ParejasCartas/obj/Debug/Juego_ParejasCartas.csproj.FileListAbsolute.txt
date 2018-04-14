@@ -11,3 +11,19 @@ C:\Users\Kasane\Desktop\PROG WPF EJERCICIOS\Juego_ParejasCartas\Juego_ParejasCar
 C:\Users\Kasane\Desktop\PROG WPF EJERCICIOS\Juego_ParejasCartas\Juego_ParejasCartas\obj\Debug\Juego_ParejasCartas.csproj.GenerateResource.Cache
 C:\Users\Kasane\Desktop\PROG WPF EJERCICIOS\Juego_ParejasCartas\Juego_ParejasCartas\obj\Debug\Juego_ParejasCartas.exe
 C:\Users\Kasane\Desktop\PROG WPF EJERCICIOS\Juego_ParejasCartas\Juego_ParejasCartas\obj\Debug\Juego_ParejasCartas.pdb
+C:\Users\Alumno1718\Desktop\PROG WPF EJERCICIOS\Juego_ParejasCartas\Juego_ParejasCartas\bin\Debug\Juego_ParejasCartas.exe.config
+C:\Users\Alumno1718\Desktop\PROG WPF EJERCICIOS\Juego_ParejasCartas\Juego_ParejasCartas\obj\Debug\Juego_ParejasCartas.exe
+C:\Users\Alumno1718\Desktop\PROG WPF EJERCICIOS\Juego_ParejasCartas\Juego_ParejasCartas\obj\Debug\Juego_ParejasCartas.pdb
+C:\Users\Alumno1718\Desktop\PROG WPF EJERCICIOS\Juego_ParejasCartas\Juego_ParejasCartas\bin\Debug\Juego_ParejasCartas.exe
+C:\Users\Alumno1718\Desktop\PROG WPF EJERCICIOS\Juego_ParejasCartas\Juego_ParejasCartas\bin\Debug\Juego_ParejasCartas.pdb
+C:\Users\Alumno1718\Desktop\PROG WPF EJERCICIOS\Juego_ParejasCartas\Juego_ParejasCartas\obj\Debug\Juego_ParejasCartas.csprojResolveAssemblyReference.cache
+C:\Users\Alumno1718\Desktop\PROG WPF EJERCICIOS\Juego_ParejasCartas\Juego_ParejasCartas\obj\Debug\MainWindow.baml
+C:\Users\Alumno1718\Desktop\PROG WPF EJERCICIOS\Juego_ParejasCartas\Juego_ParejasCartas\obj\Debug\MainWindow.g.cs
+C:\Users\Alumno1718\Desktop\PROG WPF EJERCICIOS\Juego_ParejasCartas\Juego_ParejasCartas\obj\Debug\App.g.cs
+C:\Users\Alumno1718\Desktop\PROG WPF EJERCICIOS\Juego_ParejasCartas\Juego_ParejasCartas\obj\Debug\Juego_ParejasCartas_MarkupCompile.cache
+C:\Users\Alumno1718\Desktop\PROG WPF EJERCICIOS\Juego_ParejasCartas\Juego_ParejasCartas\obj\Debug\Juego_ParejasCartas.g.resources
+C:\Users\Alumno1718\Desktop\PROG WPF EJERCICIOS\Juego_ParejasCartas\Juego_ParejasCartas\obj\Debug\Juego_ParejasCartas.Properties.Resources.resources
+C:\Users\Alumno1718\Desktop\PROG WPF EJERCICIOS\Juego_ParejasCartas\Juego_ParejasCartas\obj\Debug\Juego_ParejasCartas.csproj.GenerateResource.Cache
+C:\Users\Kasane\Desktop\Clase\Juego_ParejasCartas\Juego_ParejasCartas\bin\Debug\Juego_ParejasCartas.exe.config
+C:\Users\Kasane\Desktop\Clase\Juego_ParejasCartas\Juego_ParejasCartas\obj\Debug\Juego_ParejasCartas.exe
+C:\Users\Kasane\Desktop\Clase\Juego_ParejasCartas\Juego_ParejasCartas\obj\Debug\Juego_ParejasCartas.pdb

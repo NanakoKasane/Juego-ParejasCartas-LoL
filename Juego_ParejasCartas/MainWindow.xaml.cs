@@ -13,6 +13,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 //----------------------------------
+using System.Windows.Threading;
+using System.Threading;
 
 namespace Juego_ParejaCartas
 {
@@ -133,15 +135,15 @@ namespace Juego_ParejaCartas
 					return;
 
 
+
 				// Si hay 2 cartas levantadas (a comparar) y no aciertas la carta (no son iguales las que comparas) se vuelve a esconder
-				else if (contadorLevantadas == 2 && imagenesAnadidas[nCarta].Source != imagenesLevantadas[0].Source)
+				if (contadorLevantadas == 2 && imagenesAnadidas[nCarta].Source != imagenesLevantadas[0].Source)
 				{
-					// Thread.Sleep(2000); // En 2 segundos. SOLO ME QUEDA QUE SE ESPERE PARA OCULTARLAS 
+					MessageBox.Show("No ha acertado la pareja," + "\n" + "Siga intentándolo <3"); // Es muy cutre pero esto sirve de temporizador y se muestra para luego ocultarse xD
 
 					// Se ocultan las 2 cartas:
 					imagenesAnadidas[nCarta].Visibility = System.Windows.Visibility.Hidden;
 					imagenesLevantadas[0].Visibility = System.Windows.Visibility.Hidden; // La primera con la que comparas siempre es la primera de la lista de cartas levantadas
-
 
 					// Vacío la lista de Cartas Levantadas (Ya no hay ninguna levantada)
 					imagenesLevantadas.Clear();
@@ -159,7 +161,7 @@ namespace Juego_ParejaCartas
 					contadorLevantadas = 0;
 
 					if (contadorAcertadas == 6)
-						MessageBox.Show("¡GANASTE!");
+						MessageBox.Show("¡GANASTE! <3");
 				}
 
 			}
